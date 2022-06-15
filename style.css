@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+    background-color: rgb(73, 73, 73);
+    color: rgb(243, 243, 243);
+}
+.one,
+.two,
+.three,
+.four{
+    background-color: rgb(243, 243, 243);
+    color: rgb(73, 73, 73);
+}
